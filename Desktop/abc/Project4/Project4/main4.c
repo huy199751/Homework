@@ -126,7 +126,7 @@ void main()
 	scanf_s("%d", &n);
 	for (i = 0;i < n;i++)
 	{
-		printf("%d", i);
+		printf("so thu %d: ", i);
 		scanf_s("%d", &arr1[i]);
 	}
 	for (i = 0;i < n;i++)
